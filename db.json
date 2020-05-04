@@ -176,20 +176,20 @@
       "plot": "Four denizens in the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight.",
       "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
     },
-	  {
-      "id": 142,
-      "title": "The Martian",
-      "year": "2015",
-      "runtime": "144",
+    {
+      "id": 141,
+      "title": "Hotel Rwanda",
+      "year": "2004",
+      "runtime": "121",
       "genres": [
-        "Adventure",
         "Drama",
-        "Sci-Fi"
+        "History",
+        "War"
       ],
-      "director": "Ridley Scott",
-      "actors": "Matt Damon, Jessica Chastain, Kristen Wiig, Jeff Daniels",
-      "plot": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg"
-    },             
+      "director": "Terry George",
+      "actors": "Xolani Mali, Don Cheadle, Desmond Dube, Hakeem Kae-Kazim",
+      "plot": "Paul Rusesabagina was a hotel manager who housed over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2MzQyNTc1M15BMl5BanBnXkFtZTYwMjExNjc3._V1_SX300.jpg"
+    },           
   ]
 }
