@@ -204,21 +204,6 @@
       "actors": "Miles Teller, J.K. Simmons, Paul Reiser, Melissa Benoist",
       "plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
       "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4OTQ3MDUyMV5BMl5BanBnXkFtZTgwOTA2MjU0MjE@._V1_SX300.jpg"      
-    },	
-    {
-      "id": 137,
-      "title": "Spotlight",
-      "year": "2015",
-      "runtime": "128",
-      "genres": [
-        "Biography",
-        "Crime",
-        "Drama"
-      ],
-      "director": "Tom McCarthy",
-      "actors": "Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber",
-      "plot": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
-      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_SX300.jpg"
-    }             
+    }          
   ]
 }
