@@ -175,6 +175,21 @@
       "actors": "Ryan Gosling, Rudy Eisenzopf, Casey Groves, Charlie Talbert",
       "plot": "Four denizens in the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight.",
       "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDc4MThhN2EtZjMzNC00ZDJmLThiZTgtNThlY2UxZWMzNjdkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
-    }             
+    },
+	  {
+      "id": 142,
+      "title": "The Martian",
+      "year": "2015",
+      "runtime": "144",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "director": "Ridley Scott",
+      "actors": "Matt Damon, Jessica Chastain, Kristen Wiig, Jeff Daniels",
+      "plot": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.",
+      "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg"
+    },             
   ]
 }
